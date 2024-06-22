@@ -2,6 +2,13 @@
 
 This project was a part of Udemy Course for React and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Full View
+![localhost_3000_](https://github.com/jaikr24/Travel-List/assets/87568222/97874f55-44f7-44d6-8776-06293df7f34f)
+
+### Browser View
+![image](https://github.com/jaikr24/Travel-List/assets/87568222/82301e82-83d3-4685-864f-f176105ad45d)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
